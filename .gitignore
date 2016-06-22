@@ -1,0 +1,15 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# config file for db connections
+config/config.js
+config.js
+sbmApps.env
+sbmApps.env
